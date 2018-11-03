@@ -15,16 +15,16 @@ public class pprintln{
 		// System.out.println(maxValue+1L);
 		// System.out.println(minValue-1L);
 		// System.out.println("6"+2);
-		int line = 10;
-		for(int x = 0;x < line;x++){
-			for(int y = 0; y < line -x;y++){
-				System.out.print(" ");
-			}
-			for(int z = 0;z < x;z++){
-				System.out.print("* ");
-			}
-			System.out.println();
-		}
+		// int line = 10;
+		// for(int x = 0;x < line;x++){
+			// for(int y = 0; y < line -x;y++){
+				// System.out.print(" ");
+			// }
+			// for(int z = 0;z < x;z++){
+				// System.out.print("* ");
+			// }
+			// System.out.println();
+		// }
 		
 		int a = 10;
 		byte b = (byte)a;
