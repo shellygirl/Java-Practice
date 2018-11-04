@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Fac{
 	public static int Factor(int num){
 		if(num == 1){
@@ -74,6 +76,10 @@ public class Fac{
 			}
 			System.out.print();
 		}
+	}
+	public static void main(String [] args){
+		int[] a = new int[]{2,5,44,56,334};
+		Arrays.sort(a);
 		
 }
 		
